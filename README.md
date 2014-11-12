@@ -2,10 +2,10 @@ ausarrep
 ========
 #Titel
 
-Liste
-	*Artikel 1
-	*Artikel 2
-	*Artikel 3
+1. Liste
+	* Artikel 1
+	* Artikel 2
+	* Artikel 3
 	
 |Spalte 1|Spalte 2|Spalte 3|
 |:-------|:------:|-------:|
